@@ -5,7 +5,7 @@ Learning Java Together
 
 鉴于[lpshou](https://github.com/lpshou)君和[storm](https://github.com/stormzhang)君有着一门共同的语言--Java，而且都打算重新系统的学习下这门语言，故在此列些计划互相督促，互相学习。本着开放开源的思想，于是这个repo诞生了。
 
-## 学习计划（storm）
+## 学习计划（for storm）
 
 1. 《Thinking In Java》--java经典书籍，必须重读，不适合新手阅读。希望1-2个月看完。
 
